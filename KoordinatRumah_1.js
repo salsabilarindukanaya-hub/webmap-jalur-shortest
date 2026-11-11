@@ -1,0 +1,1 @@
+var json_KoordinatRumah_1 = {"type":"FeatureCollection","name":"KoordinatRumah_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Lokasi":"Rumah","Latitude":-7.93215,"Longitude":110.32035},"geometry":{"type":"Point","coordinates":[110.320349071370785,-7.932149770972105]}}]}
